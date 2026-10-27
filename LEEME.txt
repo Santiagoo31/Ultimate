@@ -1,0 +1,7 @@
+SANTIAGO WORK CONTROL — versión simplificada
+
+Solo incluye: control de turnos, historial por periodo de nómina (26 a 25), registro de descansos anteriores y tarifas. No incluye gastos, saldo, copias JSON ni sección Acerca de.
+
+La hora de entrada y salida se ajusta a la hora exacta más cercana si la marca está dentro de la tolerancia configurada (15 minutos por defecto). Fuera de ese margen se conserva la hora real. El ajuste es una estimación personal y no garantiza la liquidación oficial.
+
+Para publicar, descomprime y sube los archivos al repositorio GitHub Pages. Conserva una copia de tus datos importantes antes de sustituir una versión ya usada: el almacenamiento local de cada versión puede ser distinto.
